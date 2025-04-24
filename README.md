@@ -56,4 +56,3 @@ Sessions
 
 Reviews
 
-![Aditya](aditya.jpg)
