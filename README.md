@@ -56,3 +56,14 @@ Sessions
 
 Reviews
 
+![Home](images/home1.png)
+![Home](images/home2.png)
+![Signin](images/signin.png)
+![Signup](images/signup.png)
+![Profile](images/profile.png)
+![Habit](images/habit.png)
+![Calendar](images/calendar.png)
+![Session](images/session.png)
+![About](images/about.png)
+![Contact](images/contact.png)
+![Review](images/review.png)
