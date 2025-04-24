@@ -1,4 +1,4 @@
-# 🧠 HabitBuddy – Track Habits. Stay Consistent. Build a Better You.
+#🧠 HabitBuddy – Track Habits. Stay Consistent. Build a Better You.
 
 **HabitBuddy** is your personal habit-tracking companion designed to help you build, maintain, and succeed with consistent habits. From visual streak tracking to focused productivity sessions, everything is built to keep you on track.
 
@@ -21,6 +21,7 @@
 📖 About Us – Learn more about the team behind HabitBuddy.
 
 ⚙️ Tech Stack
+
 HTML
 
 CSS
