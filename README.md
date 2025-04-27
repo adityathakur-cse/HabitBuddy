@@ -51,6 +51,6 @@ From visual streak tracking to focused productivity sessions, everything is buil
 ![Calendar](images/calendar.png)
 ![Session](images/session.png)
 ![About](images/about.png)
-![About](images/about1.png)
+![About](images/about2.png)
 ![Contact](images/contact.png)
 ![Review](images/review.png)
